@@ -20,8 +20,8 @@ public class App extends Application {
         scene = new Scene(loadFXML("primary"), 640, 480);
         stage.setScene(scene);
         stage.show();
-        // random msg
-        
+        // random msgasdf
+        // another random line
     }
 
     static void setRoot(String fxml) throws IOException {
